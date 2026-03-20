@@ -11,7 +11,7 @@ export default function App() {
 
   const theme = {
     bg: dark ? '#000' : '#fff',
-    text: dark ? '#000' : '#000', 
+    text: dark ? '#fff' : '#000', 
     card: dark ? '#222' : '#f0f0f0'
   };
 
